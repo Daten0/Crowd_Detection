@@ -1,5 +1,5 @@
 # Crowd_Detection
-Final projects using YOLO, and O-openCV
+This project using YOLO, and O-openCV
 
 
 ## Overview
