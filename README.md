@@ -172,3 +172,9 @@ model = YOLOv5("yolov5n.pt", device=device)
 3. Integrate density heatmap visualization
 4. Add crowd velocity analysis
 5. Implement fall detection capabilities
+
+## Sebelum Output
+https://drive.google.com/file/d/1NBQv7p-G04rqLFbh2wpITsoYty-z_ZF3/view?usp=drive_link
+
+## Setelah Output
+https://drive.google.com/file/d/1Kyp-KBaIYJOurbWBa1QREFbyru3YRXa9/view?usp=drive_link
