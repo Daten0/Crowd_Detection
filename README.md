@@ -160,21 +160,8 @@ model = YOLOv5("yolov5l.pt", device=device)
 model = YOLOv5("yolov5n.pt", device=device)
 ```
 
-## Limitations and Future Improvements
-**Current Limitations:**
-- Occlusion handling in dense crowds
-- Perspective distortion in wide-angle shots
-- Lighting/shadows affecting detection
-
-**Improvement Opportunities:**
-1. Implement perspective normalization
-2. Add people counting in specific zones
-3. Integrate density heatmap visualization
-4. Add crowd velocity analysis
-5. Implement fall detection capabilities
-
-## Sebelum Output
+## Input
 https://drive.google.com/file/d/1NBQv7p-G04rqLFbh2wpITsoYty-z_ZF3/view?usp=drive_link
 
-## Setelah Output
+## Output
 https://drive.google.com/file/d/1Kyp-KBaIYJOurbWBa1QREFbyru3YRXa9/view?usp=drive_link
